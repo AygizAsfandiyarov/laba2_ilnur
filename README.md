@@ -1,1 +1,1 @@
-# laba2_ilnur
+# LB2
